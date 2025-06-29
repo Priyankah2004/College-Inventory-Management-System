@@ -1,30 +1,32 @@
-# College-Inventory-Management-System
-A Java-based college inventory portal using JSP/Servlets, Hibernate ORM, and MySQL for managing lab equipment and resources.
-# Blockchain Complaint System
+# College Inventory Management System
 
 ## Overview
-A simulation of a secure complaint system using blockchain principles, ensuring immutable and tamper-proof complaint records.
+A web-based portal to manage and track college inventory, built with Java, JSP/Servlets, Hibernate ORM, and MySQL database.
 
 ## Features
-- Immutable blockchain complaint logs
-- Tamper-proof storage simulation
-- Role-based access and verification system
+- Asset tracking and resource management
+- CRUD operations for lab equipment
+- Hibernate ORM integration
+- User-friendly JSP interface
 
 ## Technologies
-Java (Blockchain Simulation)
+Java, JSP/Servlets, Hibernate, MySQL, Apache Tomcat
 
 ## Screenshots
 
-### 📝 Complaint Submission Interface
-![Complaint Form](screenshots/complaint-form.png)
+### 🔧 Login Page
+![Login Page](screenshots/login.png)
 
-### 🔒 Blockchain Record View
-![Blockchain Records](screenshots/blockchain-records.png)
+### 📋 Inventory Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### ➕ Add Equipment Form
+![Add Equipment](screenshots/add-equipment.png)
 
 ## Setup Instructions
-1. Clone the repository
-2. Open project in your IDE
-3. Run the simulation using provided Java files
+1. Import project as a Dynamic Web Project in Eclipse
+2. Configure `hibernate.cfg.xml` with your MySQL database credentials
+3. Run project on Apache Tomcat server
 
 ## Author
-Priyanka H
+[Your Name]
