@@ -15,13 +15,13 @@ Java, JSP/Servlets, Hibernate, MySQL, Apache Tomcat
 ## Screenshots
 
 ### 🔧 Login Page
-![Login Page](screenshots/login.png)
+![Login Page](CollegeInventorySystem/screenshots/login.png)
 
 ### 📋 Inventory Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](CollegeInventorySystem/screenshots/dashboard.png)
 
 ### ➕ Add Equipment Form
-![Add Equipment](screenshots/AddItem.png)
+![Add Equipment](CollegeInventorySystem/screenshots/AddItem.png)
 
 ## Setup Instructions
 1. Import project as a Dynamic Web Project in Eclipse
