@@ -15,7 +15,7 @@ Java, JSP/Servlets, Hibernate, MySQL, Apache Tomcat
 ## Screenshots
 
 ### 🔧 Login Page
-![Login Page](screenshots/loggin.png)
+![Login Page](screenshots/login.png)
 
 ### 📋 Inventory Dashboard
 ![Dashboard](screenshots/dashboard.png)
