@@ -15,13 +15,13 @@ Java, JSP/Servlets, Hibernate, MySQL, Apache Tomcat
 ## Screenshots
 
 ### 🔧 Login Page
-![Login Page](screenshots/login.png)
+![Login Page](screenshots/loggin.png)
 
 ### 📋 Inventory Dashboard
 ![Dashboard](screenshots/dashboard.png)
 
 ### ➕ Add Equipment Form
-![Add Equipment](screenshots/add-equipment.png)
+![Add Equipment](screenshots/AddItem.png)
 
 ## Setup Instructions
 1. Import project as a Dynamic Web Project in Eclipse
@@ -29,4 +29,4 @@ Java, JSP/Servlets, Hibernate, MySQL, Apache Tomcat
 3. Run project on Apache Tomcat server
 
 ## Author
-[Your Name]
+Priyanka H
